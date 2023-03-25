@@ -4,7 +4,7 @@ body{
    overflow-x: hidden;
 }
 header {
-	background-color: yellow;
+	background-color: red;
 	color: #fff;
 	display: flex;
 	justify-content: space-between;
@@ -327,7 +327,7 @@ font-size: 2em;
   .c6
   {
     width: 1348px;
-    background-color: yellow;
+    background-color: red;
   }
 
   .c1
